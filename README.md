@@ -1,5 +1,6 @@
 # aulas_pa
 Repositório para aulas de Programação e Algoritmos
 
-exercício alfândega no Scratch
-https://scratch.mit.edu/projects/663769084/
+exercício no Scratch
+alfândega: https://scratch.mit.edu/projects/663769084/
+média: https://scratch.mit.edu/projects/663845528/editor/
