@@ -1,0 +1,10 @@
+Algoritmo CalculaValortotal
+ Entre com a QTDE
+ Entre com o VALOR
+ Faça QTDE*VALOR= VT
+ Mostre o valor total (VT)
+
+Teste de MESA
+QTDE    VALOR   VT
+10      15      150
+20      10      200
