@@ -1,9 +1,0 @@
-Algoritmo SomaQuadrado
- Entre com umn valor e atribua a n1,n2,n3,n4
- Faça (n1*n1)+(n2*n2)+-(n3*n3)+(n4*n4) = resultado 
-FimAlgoritmo
-
-teste de mesa
- n1    n2    n3    n4  resultado
- 2     4     5     6   81
- 5     2     3     5   63
