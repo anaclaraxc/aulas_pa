@@ -1,0 +1,12 @@
+AlgoritmoComissão
+  Entre com um valor para quantidade_pecas
+  Entre com um valor para preco_pecas
+  Faça quantidade_pecas*preco_pecas = valor_total
+  Valor_total*0.05 = comissao
+  Mostre o valor_total e a comissão
+FimAlgoritmo
+
+Teste de mesa
+
+preco_pecas      quantidade_pecas    valor_total    comissão
+2.5              200                 500            25.00
