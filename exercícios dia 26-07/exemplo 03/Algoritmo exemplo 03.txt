@@ -1,0 +1,10 @@
+Algoritmo exemplo 01- 26/07
+   Entre com um valor inteiro e atribua para idade 
+   Se idade >=18 entao
+      Entre com SIM ou NÃO para Habilitado
+      Se habilitado = SIM entao
+         Escreva "PODE PASSAR"
+      Senao
+         Escreva "NÃO PODE PASSAR"
+      FimSe 
+FimAlgoritmo
